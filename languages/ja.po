@@ -1,0 +1,804 @@
+# Translation of isis in Japanese
+msgid ""
+msgstr ""
+"Project-Id-Version: isis\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-06-08 15:23+0900\n"
+"Last-Translator: toshio iwakura <tiwakura@shimin.or.jp>\n"
+"Language-Team:  <tiwakura@shimin.or.jp>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#. Text in function
+#: corpo/image.php:17 corpo/single.php:19 corpo/loop.php:20
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#. Text in function
+#: corpo/search.php:7
+msgid "%s Search Results for "
+msgstr "%s 検索結果:  "
+
+#. Text in function
+#: corpo/image.php:25
+msgid "&laquo; Previous image"
+msgstr "&laquo; 前の画像"
+
+#. Text in function
+#: corpo/comments.php:18
+msgid "&larr; Older Comments"
+msgstr "&larr; 過去のコメント"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid ", "
+msgstr "、"
+
+#. Text in function
+#: corpo/image.php:17 corpo/single.php:19 corpo/loop.php:20
+msgid "1 Comment"
+msgstr "1件のコメント"
+
+#. Text in echo
+#: corpo/404.php:7
+msgid "404"
+msgstr "404"
+
+#. Text in echo
+#: corpo/author.php:20
+msgid "About "
+msgstr "About"
+
+#. Text in echo
+#: corpo/functions/widgets/contact-widget.php:44
+#: corpo/functions/widgets/contact-widget.php:90
+msgid "Address"
+msgstr "アドレス"
+
+#. Text in echo
+#: corpo/functions/admin/options-framework/options-framework.php:233
+msgid ""
+"All Corpo features plus <b>custom typography, unlimited colors, filterable "
+"portfolio</b> and more!"
+msgstr ""
+"Corpoの全ての機能に加えて、<b>カスタムタイポグラフィー、制限のない色、フィル"
+"ターできるポートフォリオ</b>その他いろいろな機能があります。"
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "All plugins installed and activated successfully. %s"
+msgstr "全てのプラグインが正常にインストール、有効化されました。"
+
+#. Text in echo
+#: corpo/functions/widgets/services-widget.php:92
+msgid "Anchor text"
+msgstr "アンカーテキスト"
+
+#. Text in echo
+#: corpo/functions/widgets/popular-posts-widget.php:103
+msgid "Anonymous"
+msgstr "不特定多数の"
+
+#. Text in function
+#: corpo/functions.php:568 corpo/archive.php:5 corpo/sidebar.php:13
+msgid "Archives"
+msgstr "アーカイブ"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Author"
+msgstr "投稿者"
+
+#. Text in echo
+#: corpo/author.php:7
+msgid "Author Archives for "
+msgstr "投稿者別アーカイブ: "
+
+#. Text in function
+#: corpo/image.php:3 corpo/blog-page.php:6 corpo/single.php:4
+#: corpo/index.php:3
+msgid "Blog"
+msgstr "ブログ"
+
+#. Text in echo
+#: corpo/functions/admin/options-framework/options-framework.php:233
+msgid "Buy now!"
+msgstr "さようなら！"
+
+#. Text in echo
+#: corpo/header.php:18
+msgid "Call us at"
+msgstr "次の電話番号に電話してください："
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Category"
+msgstr "カテゴリー"
+
+#. Text in function
+#: corpo/functions/admin/options-framework/options-framework.php:259
+msgid "Clear"
+msgstr "消去"
+
+#. Text in echo
+#: corpo/comments.php:25
+msgid "Comments are closed."
+msgstr "コメントは停止中です。"
+
+#. Text in function
+#: corpo/functions/widgets/contact-widget.php:57
+msgid "Contact"
+msgstr "お問い合わせ"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Continue reading &rarr;"
+msgstr "続きを読む  &rarr"
+
+#. Text in echo
+#: corpo/functions.php:580
+msgid "Corpo Documentation"
+msgstr "Corpo 文書"
+
+#. Text in echo
+#: corpo/footer.php:26
+msgid "Corpo Theme"
+msgstr "Corpo テーマ"
+
+#. Text in function
+#: corpo/functions/widgets/contact-widget.php:1
+msgid "Corpo: Contact widget"
+msgstr "Corpo: お問い合わせウィジェット"
+
+#. Text in function
+#: corpo/functions/widgets/popular-posts-widget.php:1
+msgid "Corpo: Popular posts Tabbed widget"
+msgstr "Corpo: 人気のある投稿タブウィジェット"
+
+#. Text in function
+#: corpo/functions/widgets/recent-posts-widget.php:1
+msgid "Corpo: Recent posts list"
+msgstr "Corpo: 最近の投稿一覧"
+
+#. Text in function
+#: corpo/functions/widgets/services-widget.php:1
+msgid "Corpo: Services widget"
+msgstr "Corpo: サービスウィジェット"
+
+#. Text in function
+#: corpo/archive.php:5
+msgid "Daily Archives: %s"
+msgstr "日別アーカイブ: %s"
+
+#. Text in function
+#: corpo/functions/admin/options-framework/options-framework.php:259
+msgid "Default"
+msgstr "デフォルト"
+
+#. Text in function
+#: corpo/functions/widgets/recent-posts-widget.php:1
+msgid "Displays a list of recent posts"
+msgstr "最近の投稿一覧を表示する"
+
+#. Text in function
+#: corpo/functions/widgets/contact-widget.php:1
+msgid "Displays conatct info with icons"
+msgstr "連絡先（アイコン付き）を表示する"
+
+#. Text in function
+#: corpo/functions/widgets/services-widget.php:1
+msgid "Displays services box, designed for use on Home Page"
+msgstr "ホームページで使用するようにデザインされたサービスボックスを表示する"
+
+#. Text in function
+#: corpo/functions/widgets/popular-posts-widget.php:1
+msgid "Displays tabbed list of popular posts, recent posts & comments"
+msgstr "人気のある投稿のタブ"
+
+#. Text in echo
+#: corpo/functions.php:585
+msgid "Donate a token of your appreciation"
+msgstr "Donate a token of　"
+
+#. Text in echo
+#: corpo/functions/widgets/contact-widget.php:52
+#: corpo/functions/widgets/contact-widget.php:100
+msgid "Email"
+msgstr "Eメール"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#. Text in echo
+#: corpo/functions/widgets/services-widget.php:82
+msgid "Heading"
+msgstr "ヘッダー"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Home Page Services"
+msgstr "ホームページサービス"
+
+#. Text in echo
+#: corpo/functions/widgets/services-widget.php:75
+msgid "Icon"
+msgstr "アイコン"
+
+#. Text in echo
+#: corpo/functions/widgets/services-widget.php:77
+msgid "Icon name, for example: icon-search"
+msgstr "アイコン名、　例：icon-search"
+
+#. Text in echo
+#: corpo/functions.php:582
+msgid "If you like this theme, I\\'d appreciate any of the following:"
+msgstr ""
+"もし、あなたがこのテーマを気に入ってくれたなら、以下のいずれかをお願いしま"
+"す。"
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "Install Plugins"
+msgstr "プラグインをインストールする"
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "Install Required Plugins"
+msgstr "必要なプラグインをインストールする"
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストールしています：　%s"
+
+#. Text in echo
+#: corpo/loop.php:43
+msgid ""
+"It seems we can\\'t find what you\\'re looking for. Perhaps searching can "
+"help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#. Text in function
+#: corpo/image.php:17 corpo/single.php:19
+msgid "Leave your thoughts"
+msgstr "コメントを投稿する"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Main Menu"
+msgstr "メインメニュー"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Main Sidebar"
+msgstr "メインサイドバー"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Main widget area displayed on blog posts & archives"
+msgstr "ブログ投稿とアーカイブに表示されるメインウィジェットエリア"
+
+#. Text in echo
+#: corpo/sidebar.php:20
+msgid "Meta"
+msgstr "メタ"
+
+#. Text in function
+#: corpo/comments.php:19
+msgid "Newer Comments &rarr;"
+msgstr "新しいコメント &rarr;"
+
+#. Text in function
+#: corpo/pagination.php:9
+msgid "Newer posts"
+msgstr "新しい投稿"
+
+#. Text in function
+#: corpo/image.php:25
+msgid "Next image &raquo;"
+msgstr "次の画像　&raquo;"
+
+#. Text in function
+#: corpo/loop.php:20
+msgid "No comments"
+msgstr "コメントはありません。"
+
+#. Text in echo
+#: corpo/functions/widgets/popular-posts-widget.php:146
+#: corpo/functions/widgets/recent-posts-widget.php:93
+msgid "Number of posts to show"
+msgstr "表示する投稿数: "
+
+#. Text in function
+#: corpo/pagination.php:8
+msgid "Older posts"
+msgstr "過去の投稿"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Page "
+msgstr "ページ"
+
+#. Text in echo
+#: corpo/404.php:8
+msgid "Page not found!"
+msgstr "ページが見つかりません！"
+
+#. Text in echo
+#: corpo/loop.php:23
+msgid "Permalink"
+msgstr "パーマリンク"
+
+#. Text in echo
+#: corpo/functions/widgets/contact-widget.php:48
+#: corpo/functions/widgets/contact-widget.php:95
+msgid "Phone"
+msgstr "電話"
+
+#. Text in echo
+#: corpo/functions.php:402
+msgid "Pingback:"
+msgstr "ピンバック： "
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "Plugin activated successfully."
+msgstr "プラグインは正常に有効化されました。"
+
+#. Text in echo
+#: corpo/functions/widgets/popular-posts-widget.php:37
+msgid "Popular"
+msgstr "人気の投稿"
+
+#. Text in echo
+#: corpo/comments.php:3
+msgid "Post is password protected. Enter the password to view any comments."
+msgstr ""
+"投稿はパスワード保護されています。コメントを見るにはパスワードを入力してくだ"
+"さい。"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Posted in "
+msgstr "投稿日付： "
+
+#. Text in echo
+#: corpo/footer.php:25
+msgid "Powered by"
+msgstr "powered by"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Prefooter"
+msgstr "プリフッター"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Prefooter widget area displayed above the footer (max 4 widgets)"
+msgstr ""
+"プリフッターウィジェットエリアはフッターの上部に表示されます。（最大４ウィ"
+"ジェット）"
+
+#. Text in echo
+#: corpo/functions.php:584
+msgid "Rate Corpo at WordPress.org"
+msgstr "WordPress.orgでのCorpoの評価"
+
+#. Text in echo
+#: corpo/functions/widgets/popular-posts-widget.php:38
+msgid "Recent"
+msgstr "最新"
+
+#. Text in echo
+#: corpo/404.php:10
+msgid "Return home?"
+msgstr "ホームに戻りますか？"
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "Return to Required Plugins Installer"
+msgstr "必要なプラグインのインストールに戻る"
+
+#. Text in echo
+#: corpo/searchform.php:4
+msgid "Search"
+msgstr "検索"
+
+#. Text in function
+#: corpo/functions/admin/options-framework/options-framework.php:259
+msgid "Select Color"
+msgstr "サイト名の色を選んでください。"
+
+#. Text in echo
+#: corpo/functions/widgets/services-widget.php:87
+msgid "Service description"
+msgstr "サービス詳細"
+
+#. Text in function
+#: corpo/functions.php:429
+msgid "Something went wrong with the plugin API."
+msgstr "プラグインAPIに問題があります。"
+
+#. Text in echo
+#: corpo/page.php:34 corpo/fullwidth-page.php:38 corpo/single.php:46
+#: corpo/author.php:35
+msgid "Sorry, nothing to display."
+msgstr "すみません。表示するものがありません。"
+
+#. Text in echo
+#: corpo/single.php:21 corpo/loop.php:26
+msgid "Sticky post"
+msgstr "先頭固定表示"
+
+#. Text in echo
+#: corpo/functions.php:578
+msgid "Support"
+msgstr "サポート"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Tag"
+msgstr "タグ"
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "Tagged: "
+msgstr "タグ："
+
+#. Text in echo
+#: corpo/functions.php:581
+msgid ""
+"The best way to contact me with <b>support questions</b> and <b>bug reports</"
+"b> is via the"
+msgstr ""
+"私と連絡をとる一番良い方法は、<b>サポートの質問</b> and <b>バグレポート</b> "
+"を次の連絡先に送ることです："
+
+#. Text in function
+#: corpo/functions.php:568
+msgid "This widget area is designed to display up to 4 services widgets."
+msgstr ""
+"このウィジェットエリアは最大４つのサービスウィジェットを表示するようデザイン"
+"されています。"
+
+#. Text in echo
+#: corpo/functions/widgets/recent-posts-widget.php:88
+#: corpo/functions/widgets/contact-widget.php:85
+msgid "Title"
+msgstr "タイトル:"
+
+#. Text in echo
+#: corpo/functions/widgets/services-widget.php:97
+msgid "URL Address"
+msgstr "URLアドレス"
+
+#. Text in echo
+#: corpo/functions/admin/options-framework/options-framework.php:232
+msgid "Upgrade to Corpo Pro!"
+msgstr "Corpo Pro! へのアップグレード"
+
+#. Text in echo
+#: corpo/footer.php:26
+msgid "WordPress"
+msgstr "WordPress"
+
+#. Text in echo
+#: corpo/functions.php:581
+msgid "WordPress support forums"
+msgstr "WordPressサポートフォーラム"
+
+#. Text in echo
+#: corpo/functions.php:414
+msgid "Your comment is awaiting moderation."
+msgstr "あなたのコメントは管理者の承認待ちです。"
+
+#. Text in echo
+#: corpo/image.php:16 corpo/single.php:18 corpo/loop.php:19
+msgid "by"
+msgstr "投稿者： "
+
+#. Text in echo
+#: corpo/functions/widgets/popular-posts-widget.php:103
+msgid "on"
+msgstr "投稿日：  "
+
+#. Text in echo
+#: corpo/loop.php:18
+msgid "posted on"
+msgstr "投稿日： "
+
+#~ msgid ""
+#~ "The home page features your choice of up to 6 posts prominently displayed "
+#~ "in a grid or slider, controlled by a <a href=\"%1$s\">tag</a>; you can "
+#~ "change the tag and layout in <a href=\"%2$s\">Appearance &rarr; "
+#~ "Customize</a>. If no posts match the tag, <a href=\"%3$s\">sticky posts</"
+#~ "a> will be displayed instead."
+#~ msgstr ""
+#~ "ホームページでは、<a href=\"%1$s\">タグ</a>を使うことで、グリッドまたはス"
+#~ "ライダーにずっと表示される投稿を6個まで選んで、目立たせることができます。"
+#~ "<a href=\"%2$s\">外観 &rarr; カスタマイズ</a>からタグやレイアウトを変更で"
+#~ "きます。タグに一致する投稿がない場合は、代わりに<a href=\"%3$s\">先頭固定"
+#~ "表示</a>指定の投稿が表示されます。"
+
+#~ msgid "More videos"
+#~ msgstr "次のビデオ"
+
+#~ msgid "More audio"
+#~ msgstr "次の音声"
+
+#~ msgid "More quotes"
+#~ msgstr "次の引用"
+
+#~ msgid "More links"
+#~ msgstr "次のリンク"
+
+#~ msgid "More galleries"
+#~ msgstr "次のギャラリー"
+
+#~ msgid "More asides"
+#~ msgstr "次のアサイド"
+
+#~ msgid "%s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr "%s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgctxt "featured content default tag slug"
+#~ msgid "featured"
+#~ msgstr "featured"
+
+#~ msgid ""
+#~ "Use this widget to list your recent Aside, Quote, Video, Audio, Image, "
+#~ "Gallery, and Link posts."
+#~ msgstr ""
+#~ "最近のアサイド、引用、動画、音声、画像、ギャラリー、リンクの投稿の一覧を表"
+#~ "示したい場合はこのウィジェットを使ってください。"
+
+#~ msgid "http://wordpress.org/themes/twentyfourteen"
+#~ msgstr "http://wordpress.org/themes/twentyfourteen"
+
+#~ msgid ""
+#~ "Use a <a href=\"%1$s\">tag</a> to feature your posts. If no posts match "
+#~ "the tag, <a href=\"%2$s\">sticky posts</a> will be displayed instead."
+#~ msgstr ""
+#~ "投稿を目立たせるには<a href=\"%1$s\">タグ</a>を使ってください。タグに一致"
+#~ "する投稿がない場合は、代わりに<a href=\"%2$s\">先頭固定表示</a>指定の投稿"
+#~ "が表示されます。"
+
+#~ msgid "Not Found"
+#~ msgstr "見つかりません"
+
+#~ msgid "Display Site Title &amp; Tagline"
+#~ msgstr "サイト名とタグラインを表示"
+
+#~ msgid ""
+#~ "For an in-depth tutorial, and more tips and tricks, visit the <a href=\"%s"
+#~ "\">Twenty Fourteen documentation</a>."
+#~ msgstr ""
+#~ "詳しいチュートリアルやカスタマイズのヒントを知りたい方は <a href=\"%s"
+#~ "\">Twenty Fourteen ドキュメンテーション</a>をご覧ください。"
+
+#~ msgctxt "monthly archives date format"
+#~ msgid "F Y"
+#~ msgstr "Y年n月"
+
+#~ msgctxt "yearly archives date format"
+#~ msgid "Y"
+#~ msgstr "Y年"
+
+#~ msgid "Tag Name"
+#~ msgstr "タグ名"
+
+#~ msgid "Don&rsquo;t display tag on front end."
+#~ msgstr "フロントエンドにタグを表示しない。"
+
+#~ msgid ""
+#~ "In 2014, our default theme lets you create a responsive magazine website "
+#~ "with a sleek, modern design. Feature your favorite homepage content in "
+#~ "either a grid or a slider. Use the three widget areas to customize your "
+#~ "website, and change your content's layout with a full-width page template "
+#~ "and a contributor page to show off your authors. Creating a magazine "
+#~ "website with WordPress has never been easier."
+#~ msgstr ""
+#~ "2014年のデフォルトテーマでは、おしゃれで現代的なレスポンシブデザインのマガ"
+#~ "ジンスタイル・サイトを作ることができます。お気に入りのホームページコンテン"
+#~ "ツをグリッドまたはスライダー形式でおすすめしましょう。3つのウィジェットエ"
+#~ "リアを使ってサイトをカスタマイズしたり、全幅ページテンプレートや執筆者を表"
+#~ "示できる参加者ページでコンテンツのレイアウトを変えてみたりしてみませんか。"
+#~ "WordPress でマガジンサイトを作るのが今までになく簡単になりました。"
+
+#~ msgid "Previous"
+#~ msgstr "前"
+
+#~ msgid "Next"
+#~ msgstr "次"
+
+#~ msgid ""
+#~ "It looks like nothing was found at this location. Maybe try a search?"
+#~ msgstr "こちらには何もありません。検索をお試しください。"
+
+#~ msgid "All posts by %s"
+#~ msgstr "%s のすべての投稿"
+
+#~ msgid "Additional sidebar that appears on the right."
+#~ msgstr "右側に表示される追加のサイドバー。"
+
+#~ msgid "Footer Widget Area"
+#~ msgstr "フッターウィジェットエリア"
+
+#~ msgid "Appears in the footer section of the site."
+#~ msgstr "サイトのフッター領域に表示されます。"
+
+#~ msgid "%d Article"
+#~ msgid_plural "%d Articles"
+#~ msgstr[0] "%d件の記事"
+
+#~ msgid ""
+#~ "Twenty Fourteen requires at least WordPress version 3.6. You are running "
+#~ "version %s. Please upgrade and try again."
+#~ msgstr ""
+#~ "Twenty Fourteen は WordPress バージョン 3.6 以上を必要とします。現在のバー"
+#~ "ジョンは %s です。アップグレードして、もう一度試してください。"
+
+#~ msgid "Background may only be visible on wide screens."
+#~ msgstr "背景は大画面の場合のみに表示される可能性があります。"
+
+#~ msgid "Featured Content"
+#~ msgstr "おすすめコンテンツ"
+
+#~ msgid "Layout"
+#~ msgstr "レイアウト"
+
+#~ msgid "Grid"
+#~ msgstr "グリッド"
+
+#~ msgid "Slider"
+#~ msgstr "スライダー"
+
+#~ msgid ""
+#~ "Enhance your site design by using <a href=\"%s\">Featured Images</a> for "
+#~ "posts you&rsquo;d like to stand out (also known as post thumbnails). This "
+#~ "allows you to associate an image with your post without inserting it. "
+#~ "Twenty Fourteen uses featured images for posts and pages&mdash;above the "
+#~ "title&mdash;and in the Featured Content area on the home page."
+#~ msgstr ""
+#~ "目立たせたい投稿に<a href=\"%s\">アイキャッチ画像</a>（投稿サムネイルとも"
+#~ "言います）を使うことで、サイトデザインをさらによくしてください。こうするこ"
+#~ "とで、画像を挿入することなく、投稿と画像を紐付けることができます。Twenty "
+#~ "Fourteen は投稿と固定ページの記事タイトルの上とホームページのおすすめコン"
+#~ "テンツエリアにアイキャッチ画像を使います。"
+
+#~ msgid "Posts navigation"
+#~ msgstr "投稿ナビゲーション"
+
+#~ msgid "<span class=\"meta-nav\">Published In</span>%title"
+#~ msgstr "%title<span class=\"meta-nav\">に投稿</span>"
+
+#~ msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+#~ msgstr "<span class=\"meta-nav\">前の投稿</span>%title"
+
+#~ msgid "<span class=\"meta-nav\">Next Post</span>%title"
+#~ msgstr "<span class=\"meta-nav\">次の投稿</span>%title"
+
+#~ msgid "Twenty Fourteen Ephemera"
+#~ msgstr "Twenty Fourteen 短冊"
+
+#~ msgid "Audio"
+#~ msgstr "音声"
+
+#~ msgid ""
+#~ "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photo</a>."
+#~ msgid_plural ""
+#~ "This gallery contains <a href=\"%1$s\" rel=\"bookmark\">%2$s photos</a>."
+#~ msgstr[0] ""
+#~ "このギャラリーには<a href=\"%1$s\" rel=\"bookmark\">%2$s枚の写真</a>が含ま"
+#~ "れています。"
+
+#~ msgid "Post format to show:"
+#~ msgstr "表示する投稿フォーマット:"
+
+#~ msgid "Contributor Page"
+#~ msgstr "参加者ページ"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "タグ別アーカイブ: %s"
+
+#~ msgid "Monthly Archives: %s"
+#~ msgstr "月別アーカイブ: %s"
+
+#~ msgid "Yearly Archives: %s"
+#~ msgstr "年別アーカイブ: %s"
+
+#~ msgid "One thought on &ldquo;%2$s&rdquo;"
+#~ msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+#~ msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#~ msgid "Comment navigation"
+#~ msgstr "コメントナビゲーション"
+
+#~ msgid "Pages:"
+#~ msgstr "ページ:"
+
+#~ msgid "Edit"
+#~ msgstr "編集"
+
+#~ msgid "Leave a comment"
+#~ msgstr "コメントをどうぞ"
+
+#~ msgid "http://wordpress.org/"
+#~ msgstr "http://ja.wordpress.org/"
+
+#~ msgid "Top primary menu"
+#~ msgstr "トップメインメニュー"
+
+#~ msgid "Secondary menu in left sidebar"
+#~ msgstr "左サイドバーのメニュー 2"
+
+#~ msgid "Main sidebar that appears on the left."
+#~ msgstr "左側に表示されるメインサイドバー。"
+
+#~ msgid "Content Sidebar"
+#~ msgstr "コンテンツサイドバー"
+
+#~ msgid "Primary Menu"
+#~ msgstr "メインメニュー"
+
+#~ msgid "Skip to content"
+#~ msgstr "コンテンツへ移動"
+
+#~ msgid "Post navigation"
+#~ msgstr "投稿ナビゲーション"
+
+#~ msgid "&larr; Previous"
+#~ msgstr "&larr; 前へ"
+
+#~ msgid "Next &rarr;"
+#~ msgstr "次へ &rarr;"
+
+#~ msgid "Nothing Found"
+#~ msgstr "見つかりません"
+
+#~ msgid ""
+#~ "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+#~ msgstr ""
+#~ "最初の投稿をする準備ができましたか ?  <a href=\"%1$s\">ここからスタート</"
+#~ "a>してください。"
+
+#~ msgid ""
+#~ "Sorry, but nothing matched your search terms. Please try again with some "
+#~ "different keywords."
+#~ msgstr ""
+#~ "ご指定の検索条件に一致する投稿がありませんでした。他のキーワードでもう一度"
+#~ "検索してみてください。"
+
+#~ msgid "Videos"
+#~ msgstr "動画"
+
+#~ msgid "Images"
+#~ msgstr "画像"
+
+#~ msgid "More images"
+#~ msgstr "画像一覧へ"
+
+#~ msgid "Galleries"
+#~ msgstr "ギャラリー"
+
+#~ msgid "Asides"
+#~ msgstr "アサイド"
+
+#~ msgid "Links"
+#~ msgstr "リンク"
+
+#~ msgid "Quotes"
+#~ msgstr "引用"
+
+#~ msgid "Twenty Fourteen"
+#~ msgstr "Twenty Fourteen"
+
+#~ msgid "Full Width Page"
+#~ msgstr "全幅ページ"
